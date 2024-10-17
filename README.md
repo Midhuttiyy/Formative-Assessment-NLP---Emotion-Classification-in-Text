@@ -1,6 +1,8 @@
 # Formative-Assessment-NLP---Emotion-Classification-in-Text
 
 
+# Dataset:
+https://drive.google.com/file/d/1HWczIICsMpaL8EJyu48ZvRFcXx3_pcnb/view?usp=drive_link
 
 
 # 1. Loading and Preprocessing 
